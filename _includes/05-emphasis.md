@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I help people learn nerdy things, so I’m **always learning nerdy things** myself too. Today, I’m completing _Communicating using Markdown_, so next semester, I’ll be prepared to guide any students who might get stuck. The course so far is rather clear, though, so I doubt they’ll struggle with this one.
